@@ -2,7 +2,7 @@
  - [Videos](#videos)
  - [Images](#images)
 ****
-### **Images**
+### --Images--
   - [Portfolio Captures](#portfolio-captures)
   - [Components Captures](#components-captures)
   - [Dummies](#dummies)
