@@ -19,17 +19,24 @@
 ![321767897-9775e92d-abb1-4297-b135-b7c0faa0521a](https://github.com/Carlosmgs111/files/assets/41123597/e6c342b5-668d-46e9-bcde-9deaf5fa48eb) [Back To Index](#index) - [Back To Image Index](#images)
 
 #### Components Captures:
-![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/fd8b0dd8-0a9a-432f-8abf-73cf8de1dc56)
-![image](https://github.com/Carlosmgs111/files/assets/41123597/74c0f2b9-7d68-40ce-a25e-06c0b7c3b709)
-![image](https://github.com/Carlosmgs111/files/assets/41123597/703728ef-11c8-40cc-aba0-5744493533aa)
+![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/fd8b0dd8-0a9a-432f-8abf-73cf8de1dc56)[Back To Index](#index) - [Back To Image Index](#images)
+
+![image](https://github.com/Carlosmgs111/files/assets/41123597/74c0f2b9-7d68-40ce-a25e-06c0b7c3b709)[Back To Index](#index) - [Back To Image Index](#images)
+
+![image](https://github.com/Carlosmgs111/files/assets/41123597/703728ef-11c8-40cc-aba0-5744493533aa)[Back To Index](#index) - [Back To Image Index](#images)
+
 #### Dummies:
-![world_map_2x](https://github.com/Carlosmgs111/files/assets/41123597/2b8128a5-bb4a-40e7-8219-558f7fe60f7b)
-![—Pngtree—abstract point white black wave_8796916](https://github.com/Carlosmgs111/files/assets/41123597/02a60bca-b866-4315-b9a7-1c7602bae512)
-![out](https://github.com/Carlosmgs111/files/assets/41123597/36d6b093-91ce-43f2-97b1-a0a37201d89c)
+![world_map_2x](https://github.com/Carlosmgs111/files/assets/41123597/2b8128a5-bb4a-40e7-8219-558f7fe60f7b)[Back To Index](#index) - [Back To Image Index](#images)
+
+![—Pngtree—abstract point white black wave_8796916](https://github.com/Carlosmgs111/files/assets/41123597/02a60bca-b866-4315-b9a7-1c7602bae512)[Back To Index](#index) - [Back To Image Index](#images)
+
+![out](https://github.com/Carlosmgs111/files/assets/41123597/36d6b093-91ce-43f2-97b1-a0a37201d89c)[Back To Index](#index) - [Back To Image Index](#images)
+
 
 ### Videos
 
-https://github.com/Carlosmgs111/files/assets/41123597/863842ae-2233-4ac8-94b3-473536c924ba
+https://github.com/Carlosmgs111/files/assets/41123597/863842ae-2233-4ac8-94b3-473536c924ba [Back To Index](#index) - [Back To Image Index](#images)
+
 
 
 https://github.com/Carlosmgs111/files/assets/41123597/e2fa4226-f91e-4dee-a590-c6de8f4b1151
