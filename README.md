@@ -35,7 +35,9 @@
 ****
 
 ### Videos
+  - [TrackSidebar demo](#tracksidebar-demo)
 
+##### TrackSidebar Demo
 https://github.com/Carlosmgs111/files/assets/41123597/863842ae-2233-4ac8-94b3-473536c924ba  
 
 [Back To Index](#index) - [Back To Videos Index](#videos)
