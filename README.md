@@ -6,7 +6,7 @@
   - [Portfolio Captures](#portfolio-captures)
   - [Components Captures](#components-captures)
   - [Dummies](#dummies)
-
+****
 #### Portfolio Captures:
 ![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/006649b1-870b-449e-9d7d-becb28cfa36c) [Back To Index](#index) - [Back To Images Index](#images)
 ****
@@ -37,7 +37,7 @@
 ### Videos
   - [TrackSidebar demo](#tracksidebar-demo)
   - [Slider demo](#slider-demo)
-
+****
 ##### TrackSidebar Demo
 https://github.com/Carlosmgs111/files/assets/41123597/863842ae-2233-4ac8-94b3-473536c924ba  
 
