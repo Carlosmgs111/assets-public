@@ -36,6 +36,7 @@
 
 ### Videos
   - [TrackSidebar demo](#tracksidebar-demo)
+  - [Slider demo](#slider-demo)
 
 ##### TrackSidebar Demo
 https://github.com/Carlosmgs111/files/assets/41123597/863842ae-2233-4ac8-94b3-473536c924ba  
@@ -44,6 +45,7 @@ https://github.com/Carlosmgs111/files/assets/41123597/863842ae-2233-4ac8-94b3-47
 
 ****
 
+##### Slider Demo
 https://github.com/Carlosmgs111/files/assets/41123597/e2fa4226-f91e-4dee-a590-c6de8f4b1151  
 
 [Back To Index](#index) - [Back To Videos Index](#videos)
