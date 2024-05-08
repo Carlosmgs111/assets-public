@@ -9,7 +9,7 @@
 
 #### Portfolio Captures:
 ![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/006649b1-870b-449e-9d7d-becb28cfa36c) [Back To Index](#index) - [Back To Images Index](#images)
-
+*****
 ![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/20e91e4d-ab21-48eb-adfd-2660bfc11a87) [Back To Index](#index) - [Back To Images Index](#images)
 
 ![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/3f25571d-2a8b-42dd-98e8-7b9b37039809) [Back To Index](#index) - [Back To Images Index](#images)
