@@ -1,7 +1,7 @@
 ## Index
  - [Index](#index)
-   - [Videos](#videos)
-   - [Images](#images)
+ - [Videos](#videos)
+ - [Images](#images)
 
 ### Images
   - [Portfolio Captures](#portfolio-captures)
