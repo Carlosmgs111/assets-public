@@ -1,7 +1,7 @@
 ## Index
  - [Videos](#videos)
  - [Images](#images)
-
+****
 ### Images
   - [Portfolio Captures](#portfolio-captures)
   - [Components Captures](#components-captures)
