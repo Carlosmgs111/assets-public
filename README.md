@@ -21,6 +21,8 @@
 ****
 ![drehskil-logo](https://github.com/Carlosmgs111/assets-public/assets/41123597/94ed874a-4f63-437b-9216-8503d6a7b32f)
 ****
+![unavailable-image-with-drehskil-logo](https://github.com/Carlosmgs111/assets-public/assets/41123597/9bcd79e9-6ea4-4fdf-a5fe-c215c508bd84)
+****
 #### Components Captures:
 ![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/fd8b0dd8-0a9a-432f-8abf-73cf8de1dc56)[Back To Index](#index) - [Back To Images Index](#images)
 ****
