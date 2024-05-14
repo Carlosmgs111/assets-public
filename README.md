@@ -23,7 +23,7 @@
 ****
 ![unavailable-image-with-drehskil-logo](https://github.com/Carlosmgs111/assets-public/assets/41123597/9bcd79e9-6ea4-4fdf-a5fe-c215c508bd84)
 ****
-![unavailable-image-with-drehskil-logo](https://github.com/Carlosmgs111/assets-public/assets/41123597/9665f733-279d-4ab6-83a1-69b232a55fe1)
+![unavailable-image-with-drehskil-logo](https://github.com/Carlosmgs111/assets-public/assets/41123597/c8364209-d4f5-4930-a782-e9d51f286511)
 ****
 #### Components Captures:
 ![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/fd8b0dd8-0a9a-432f-8abf-73cf8de1dc56)[Back To Index](#index) - [Back To Images Index](#images)
