@@ -47,8 +47,11 @@
 #### Landing CV:
 ![Captura de pantalla 2024-05-28 145544](https://github.com/Carlosmgs111/assets-public/assets/41123597/264a4a8a-8832-4fc1-b098-2831ebb06593)[Back To Index](#index) - [Back To Images Index](#images)
 ****
-![Captura de pantalla 2024-05-28 145844](https://github.com/Carlosmgs111/assets-public/assets/41123597/698b4a5e-312e-4962-af9a-d024136ba949)
+![Captura de pantalla 2024-05-28 145844](https://github.com/Carlosmgs111/assets-public/assets/41123597/698b4a5e-312e-4962-af9a-d024136ba949)[Back To Index](#index) - [Back To Images Index](#images)
 ****
+![Captura de pantalla 2024-05-28 150010](https://github.com/Carlosmgs111/assets-public/assets/41123597/396ed9b0-34f9-4dcf-a824-68d16ae298e8)[Back To Index](#index) - [Back To Images Index](#images)
+****
+
 ### Videos
   - [TrackSidebar demo](#tracksidebar-demo)
   - [Slider demo](#slider-demo)
