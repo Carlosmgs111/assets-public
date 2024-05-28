@@ -45,8 +45,7 @@
 ****
 ![out](https://github.com/Carlosmgs111/files/assets/41123597/36d6b093-91ce-43f2-97b1-a0a37201d89c)[Back To Index](#index) - [Back To Images Index](#images)
 #### Landing CV:
-![Captura de pantalla 2024-05-28 145544](https://github.com/Carlosmgs111/assets-public/assets/41123597/264a4a8a-8832-4fc1-b098-2831ebb06593)
-****
+![Captura de pantalla 2024-05-28 145544](https://github.com/Carlosmgs111/assets-public/assets/41123597/264a4a8a-8832-4fc1-b098-2831ebb06593)[Back To Index](#index) - [Back To Images Index](#images)
 ****
 
 ### Videos
