@@ -47,7 +47,8 @@
 #### Landing CV:
 ![Captura de pantalla 2024-05-28 145544](https://github.com/Carlosmgs111/assets-public/assets/41123597/264a4a8a-8832-4fc1-b098-2831ebb06593)[Back To Index](#index) - [Back To Images Index](#images)
 ****
-
+![Captura de pantalla 2024-05-28 145844](https://github.com/Carlosmgs111/assets-public/assets/41123597/698b4a5e-312e-4962-af9a-d024136ba949)
+****
 ### Videos
   - [TrackSidebar demo](#tracksidebar-demo)
   - [Slider demo](#slider-demo)
