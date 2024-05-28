@@ -7,6 +7,7 @@
   - [Components Captures](#components-captures)
   - [Drehskil UI Captures](#drehskil-ui)
   - [Dummies](#dummies)
+  - [MFFC Landing CV](#landing-cv)
 ****
 #### Portfolio Captures:
 ![image](https://github.com/Carlosmgs111/app.portfolio/assets/41123597/006649b1-870b-449e-9d7d-becb28cfa36c) [Back To Index](#index) - [Back To Images Index](#images)
@@ -43,7 +44,9 @@
 ![—Pngtree—abstract point white black wave_8796916](https://github.com/Carlosmgs111/files/assets/41123597/02a60bca-b866-4315-b9a7-1c7602bae512)[Back To Index](#index) - [Back To Images Index](#images)
 ****
 ![out](https://github.com/Carlosmgs111/files/assets/41123597/36d6b093-91ce-43f2-97b1-a0a37201d89c)[Back To Index](#index) - [Back To Images Index](#images)
-
+#### Landing CV:
+![Captura de pantalla 2024-05-28 145544](https://github.com/Carlosmgs111/assets-public/assets/41123597/264a4a8a-8832-4fc1-b098-2831ebb06593)
+****
 ****
 
 ### Videos
