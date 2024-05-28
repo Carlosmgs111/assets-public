@@ -51,6 +51,7 @@
   - [Slider demo](#slider-demo)
   - [Modal](#modal)
   - [Typing Simulador](#typing-simulator)
+  - [Loader demo](#loader-demo)
 ****
 ##### TrackSidebar Demo
 https://github.com/Carlosmgs111/files/assets/41123597/863842ae-2233-4ac8-94b3-473536c924ba  
@@ -77,3 +78,12 @@ https://github.com/Carlosmgs111/assets-public/assets/41123597/2dc0cd47-baa9-4fbf
 https://github.com/Carlosmgs111/assets-public/assets/41123597/970d1d4c-f974-4ca6-8397-4cfa9762fc0d
 
 [Back To Index](#index) - [Back To Videos Index](#videos)
+
+*****
+
+##### Loader Demo
+https://github.com/Carlosmgs111/assets-public/assets/41123597/13d45e61-7f71-4758-b8b8-a258f4d4cb85
+
+[Back To Index](#index) - [Back To Videos Index](#videos)
+
+
