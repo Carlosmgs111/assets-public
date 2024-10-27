@@ -47,11 +47,11 @@
 ****
 ![out](https://github.com/Carlosmgs111/files/assets/41123597/36d6b093-91ce-43f2-97b1-a0a37201d89c)[Back To Index](#index) - [Back To Images Index](#images)
 #### Landing CV:
-![image](https://github.com/user-attachments/assets/d5fc6817-78de-4da2-b476-2a101da49325) (#index) - [Back To Images Index](#images)
+![image](https://github.com/user-attachments/assets/d5fc6817-78de-4da2-b476-2a101da49325) [Back To Index](#index) - [Back To Images Index](#images)
 ****
-![Captura de pantalla 2024-05-28 145844](https://github.com/Carlosmgs111/assets-public/assets/41123597/698b4a5e-312e-4962-af9a-d024136ba949)[Back To Index](#index) - [Back To Images Index](#images)
+![image](https://github.com/user-attachments/assets/64bca42d-f343-4a52-abc0-98b0cf8da1b4) [Back To Index](#index) - [Back To Images Index](#images)
 ****
-![Captura de pantalla 2024-05-28 150010](https://github.com/Carlosmgs111/assets-public/assets/41123597/396ed9b0-34f9-4dcf-a824-68d16ae298e8)[Back To Index](#index) - [Back To Images Index](#images)
+![image](https://github.com/user-attachments/assets/3474673e-40f5-4604-953c-58415e80bc6d) [Back To Index](#index) - [Back To Images Index](#images)
 ****
 
 ### Videos
