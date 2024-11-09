@@ -55,11 +55,18 @@
 ****
 
 ### Videos
+  - [Hero](#hero)
   - [TrackSidebar demo](#tracksidebar-demo)
   - [Slider demo](#slider-demo)
   - [Modal](#modal)
   - [Typing Simulador](#typing-simulator)
   - [Loader demo](#loader-demo)
+****
+##### Hero
+https://github.com/user-attachments/assets/a4adcad9-67cb-4573-9b72-253f2dac23b4
+
+[Back To Index](#index) - [Back To Videos Index](#videos)
+
 ****
 ##### TrackSidebar Demo
 https://github.com/Carlosmgs111/files/assets/41123597/863842ae-2233-4ac8-94b3-473536c924ba  
