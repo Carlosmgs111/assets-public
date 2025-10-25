@@ -8,6 +8,7 @@
   - [Drehskil UI Captures](#drehskil-ui)
   - [Dummies](#dummies)
   - [MFFC Landing CV](#landing-cv)
+  - [4Negrita](#4negrita)
 ****
 #### Portfolio Captures:
 ![Captura de pantalla 2024-05-28 150303](https://github.com/Carlosmgs111/assets-public/assets/41123597/8f129a1d-fe2f-489d-b714-40c1df1f8ce7) [Back To Index](#index) - [Back To Images Index](#images)
@@ -52,7 +53,16 @@
 ![image](https://github.com/user-attachments/assets/64bca42d-f343-4a52-abc0-98b0cf8da1b4) [Back To Index](#index) - [Back To Images Index](#images)
 ****
 ![image](https://github.com/user-attachments/assets/3474673e-40f5-4604-953c-58415e80bc6d) [Back To Index](#index) - [Back To Images Index](#images)
-****
+
+#### 4Negrita:
+
+<img width="1902" height="955" alt="image" src="https://github.com/user-attachments/assets/d38875a9-6541-4465-b4f3-9fa815b550f3" />
+
+----
+
+<img width="1899" height="956" alt="image" src="https://github.com/user-attachments/assets/1f0eb83e-40cd-4640-b7da-86db921b83df" />
+
+----
 
 ### Videos
   - [Hero](#hero)
