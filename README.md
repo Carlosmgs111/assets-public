@@ -64,6 +64,13 @@
 
 ----
 
+### Mindmaps:
+
+<img width="1067" height="362" alt="image" src="https://github.com/user-attachments/assets/a04d5801-7d80-4837-9536-89e2bbda7ea8" />
+
+---
+
+
 ### Videos
   - [Hero](#hero)
   - [TrackSidebar demo](#tracksidebar-demo)
