@@ -59,11 +59,14 @@
 ****
 <img width="1624" height="528" alt="image" src="https://github.com/user-attachments/assets/528ab681-2ee8-45a4-8cc5-a197b71fdede" />
 ****
+
 #### 4Negrita:
+
 <img width="1902" height="955" alt="image" src="https://github.com/user-attachments/assets/d38875a9-6541-4465-b4f3-9fa815b550f3" />
 ****
 <img width="1899" height="956" alt="image" src="https://github.com/user-attachments/assets/1f0eb83e-40cd-4640-b7da-86db921b83df" />
 ****
+
 ### Mindmaps:
 <img width="1067" height="362" alt="image" src="https://github.com/user-attachments/assets/a04d5801-7d80-4837-9536-89e2bbda7ea8" />
 ****
