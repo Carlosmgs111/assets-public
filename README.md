@@ -70,6 +70,8 @@
 ****
 <img width="1356" height="395" alt="image" src="https://github.com/user-attachments/assets/e3310947-88d8-4fcd-841d-8dae476caf4e" />
 ****
+<img width="1757" height="725" alt="image" src="https://github.com/user-attachments/assets/9ea70d87-169b-4f75-99b9-1c177a5e94c9" />
+****
 
 
 ### Mindmaps:
