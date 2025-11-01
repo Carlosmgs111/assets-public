@@ -92,6 +92,8 @@
 ### Mighty Chat:
 <img width="1893" height="564" alt="image" src="https://github.com/user-attachments/assets/80c8aeac-caf3-434c-b873-ec962b4ad1c8" />
 ****
+<img width="1023" height="338" alt="image" src="https://github.com/user-attachments/assets/6f46591d-bd5e-4091-807f-403f2141ae6e" />
+****
 
 
 ### Videos
