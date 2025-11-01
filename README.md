@@ -74,6 +74,8 @@
 ****
 <img width="1283" height="388" alt="image" src="https://github.com/user-attachments/assets/42afd388-be2d-4b2d-9b84-747b74714d10" />
 ****
+<img width="1823" height="546" alt="image" src="https://github.com/user-attachments/assets/1c4ab372-c05c-45d4-bb13-af51cf7a5561" />
+****
 
 ### Mindmaps:
 <img width="1067" height="362" alt="image" src="https://github.com/user-attachments/assets/a04d5801-7d80-4837-9536-89e2bbda7ea8" />
