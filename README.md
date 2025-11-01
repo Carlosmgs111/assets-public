@@ -9,6 +9,7 @@
   - [Dummies](#dummies)
   - [MFFC Landing CV](#landing-cv)
   - [4Negrita](#4negrita)
+  - [Mindmaps](#mindmaps)
 ****
 #### Portfolio Captures:
 ![Captura de pantalla 2024-05-28 150303](https://github.com/Carlosmgs111/assets-public/assets/41123597/8f129a1d-fe2f-489d-b714-40c1df1f8ce7) [Back To Index](#index) - [Back To Images Index](#images)
@@ -69,6 +70,10 @@
 <img width="1067" height="362" alt="image" src="https://github.com/user-attachments/assets/a04d5801-7d80-4837-9536-89e2bbda7ea8" />
 
 ---
+<img width="1290" height="472" alt="image" src="https://github.com/user-attachments/assets/c21361e2-058a-4fb4-b716-27895242ad63" />
+
+---
+
 
 
 ### Videos
