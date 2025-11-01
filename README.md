@@ -88,6 +88,12 @@
 ****
 <img width="1654" height="484" alt="image" src="https://github.com/user-attachments/assets/756be8ac-c573-4b41-8fd0-8474fb592817" />
 ****
+
+### Mighty Chat:
+<img width="1893" height="564" alt="image" src="https://github.com/user-attachments/assets/80c8aeac-caf3-434c-b873-ec962b4ad1c8" />
+****
+
+
 ### Videos
   - [Hero](#hero)
   - [TrackSidebar demo](#tracksidebar-demo)
