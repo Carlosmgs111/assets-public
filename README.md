@@ -54,6 +54,9 @@
 ![image](https://github.com/user-attachments/assets/64bca42d-f343-4a52-abc0-98b0cf8da1b4) [Back To Index](#index) - [Back To Images Index](#images)
 ****
 ![image](https://github.com/user-attachments/assets/3474673e-40f5-4604-953c-58415e80bc6d) [Back To Index](#index) - [Back To Images Index](#images)
+****
+<img width="1065" height="343" alt="image" src="https://github.com/user-attachments/assets/975c0db3-47c3-4f52-9fba-5c185562dff2" />
+
 
 #### 4Negrita:
 
@@ -69,16 +72,16 @@
 
 <img width="1067" height="362" alt="image" src="https://github.com/user-attachments/assets/a04d5801-7d80-4837-9536-89e2bbda7ea8" />
 
----
+----
 <img width="1569" height="483" alt="image" src="https://github.com/user-attachments/assets/ce8f5772-a0fa-460c-becd-6bc9de820908" />
 
----
+----
 <img width="1401" height="465" alt="image" src="https://github.com/user-attachments/assets/586c2c8b-cf21-4170-9ff7-0f67c4130252" />
 
----
+----
 <img width="1654" height="484" alt="image" src="https://github.com/user-attachments/assets/756be8ac-c573-4b41-8fd0-8474fb592817" />
 
----
+----
 
 
 ### Videos
