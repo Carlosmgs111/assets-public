@@ -97,6 +97,8 @@
 <img width="1367" height="451" alt="image" src="https://github.com/user-attachments/assets/ff96fe8f-f4f1-49d9-91eb-20b3cbac937c" />
 ****
 
+### Certificates:
+![diploma-arquitecturas-limpias_page-0001](https://github.com/user-attachments/assets/f9d775f0-3ea2-4f2e-bba7-55fb8c37f911)
 
 ### Videos
   - [Hero](#hero)
