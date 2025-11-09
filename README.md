@@ -99,6 +99,8 @@
 
 ### Certificates:
 ![diploma-arquitecturas-limpias_page-0001](https://github.com/user-attachments/assets/f9d775f0-3ea2-4f2e-bba7-55fb8c37f911)
+![diploma-next_page-0001](https://github.com/user-attachments/assets/7b0ae566-0722-431b-aabd-956608fc70f7)
+
 
 ### Videos
   - [Hero](#hero)
